@@ -1,6 +1,6 @@
 # Assignment 2: Bitcoin Address Types and HD Wallet Concepts
 
-**Author:** Ivy Bett (Riri)
+**Author:** Ivy Bett 
 **Environment:** Bitcoin Core v30.3, built from source and running on testnet using Kali Linux
 
 ## 1. Generating Legacy, Bech32, and Bech32m Addresses
